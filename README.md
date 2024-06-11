@@ -1,2 +1,2 @@
 # AMAZON-Clone
-Project Using HTML and CSS.
+Project Using HTML & CSS.
